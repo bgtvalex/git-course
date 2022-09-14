@@ -24,4 +24,4 @@
 
 cls - очистить экран
 
-[https://www.youtube.com/watch?v=zZBiln_2FhM](video)
+[video](https://www.youtube.com/watch?v=zZBiln_2FhM)
