@@ -17,7 +17,7 @@
 
 ## CONFIG
 - **git config --global user.name** - выведет имя владельца
-- **git config -global user.email** - выведет почту владельца
+- **git config --global user.email** - выведет почту владельца
 - **git config --global user.name "alex"** - изменил имя владельца
 - так же и почта
 
