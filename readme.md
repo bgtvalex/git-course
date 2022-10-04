@@ -1,7 +1,8 @@
 # Git and Github Course
 
 ## USE
-- **git clone** SSHkey
+- **git clone  http://whatever.git** - загрузка проекта
+- **git clone http://whatever.git -b branch-name** - закрузка определенной ветки
 - **git pull** - загрузка обновлений
 - **git add .**  - добавление в git изменения
 - **git commit -m 'comm'** - добавление комментария
