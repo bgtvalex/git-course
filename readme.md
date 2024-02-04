@@ -7,6 +7,7 @@
 - **git add .**  - добавление в git изменения
 - **git commit -m 'comm'** - добавление комментария
 - **git push** - отправка изменения в удаленный репозиторий
+- **git remote add origin https://github.com/bgtvalex/title.git** - привязка репозитория
 
 ## BRANCH
 - **git branch** - просмотр веток проекта
